@@ -11,5 +11,5 @@ name = "Steven"
 puts "hello #{name}"
 
 puts "What is your name?"
-name = gets
+name = gets.chomp
 puts "hi #{name}"
