@@ -8,7 +8,7 @@ puts "Hello #{name}, you are a \"fullstack developer\""
 # string => float
 "100".to_f # => 100.0
 
-#integer => stirng 
+# integer => stirng 
 "#{100}" # => "100"
 
 =begin
@@ -16,3 +16,11 @@ This is a comment
 This is also a comment    
 All of this is a comment block
 =end
+
+# perdicates
+temp = 50
+unless temp > 30 
+    puts "it's not hot"
+else
+    puts "it's hot"
+end
