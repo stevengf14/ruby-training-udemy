@@ -24,3 +24,11 @@ unless temp > 30
 else
     puts "it's hot"
 end
+
+# round
+puts 4.7.round # => 5
+puts 4.7.floor # => 4
+puts 4.7.ceil # => 5
+
+# to limit an exactly number of decimals
+puts sprintf("%.2f", 3.33333333)
