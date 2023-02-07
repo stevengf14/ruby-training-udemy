@@ -1,6 +1,9 @@
 # structure
 arr = [1, 2, 3]
 
+# creating array
+animals = %w(fox horse dog cat)
+
 # mixed 
 arr = [1, "two", true]
 
