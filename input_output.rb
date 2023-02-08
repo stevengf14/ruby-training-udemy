@@ -11,6 +11,9 @@ puts "Hello #{name}, you are a \"fullstack developer\""
 # integer => stirng 
 "#{100}" # => "100"
 
+# data => to array
+(1..5).to_a
+
 =begin
 This is a comment 
 This is also a comment    
