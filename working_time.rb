@@ -8,4 +8,4 @@ Time.now - 7 * 24 * 60 * 60 - 60 # 1 week and 1 minute ago
 
 # sleep
 sleep(n) # => sleep for n seconds
-sleep # slee´p until a key is pressed
+sleep # sleep until a key is pressed
